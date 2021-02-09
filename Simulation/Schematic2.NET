@@ -1,0 +1,46 @@
+NET '+3.3' C49-1 C51-2 IC5-13 L4-2 R30-1 R66-2 R68-2
+NET '?' C69-1 C?-2 C?-2 C?-2 C?-2 C?-2 C?-2 C?-2 C?-2 C?-2 C?-2 L?-2 R?-1 R?-2 R?-2 R?-2
+NET 'AVDD' C60-2 IC5-28 L4-1
+NET 'Bsense' IC5-3
+NET 'C_GND' C31-1 C32-1 C45-1 C46-1 C49-2 C51-1 C60-1 C68-2 IC5-8 IC5-19 IC5-27 SW1-2 SW2-2
+NET 'Ilim1' IC5-5
+NET 'Ilim2' IC5-6
+NET 'Isense' IC5-2
+NET 'LD1' D17-2
+NET 'LD2' D18-2
+NET 'MCLR' IC5-1 R33-2
+NET 'NetC32_2' C32-2 IC5-20
+NET 'NetC45_2' C45-2 IC5-10 XT1-2
+NET 'NetC46_2' C46-2 IC5-9 XT1-1
+NET 'NetC52_1' C52-1 R?-1 R?-2
+NET 'NetC52_2' C52-2 R?-1 R?-2
+NET 'NetC70_1' C70-1 D?-1 D?-1 D?-1 IC?-2 L?-1 SCR?-1 TP?-0
+NET 'NetC70_2' C70-2 D?-1 D?-2 D?-2 F?-2 L?-4 SCR?-2
+NET 'NetC?_1' C?-1 C?-1 C?-1 C?-1 C?-1 D?-2 F?-2 SCR?-2
+NET 'NetCT?_2' CT?-2 R?-1
+NET 'NetCT?_2' CT?-2 R?-1
+NET 'NetCT?_2' CT?-2 R?-1
+NET 'NetCT?_3' CT?-3 R?-1 R?-2
+NET 'NetCT?_3' CT?-3 R?-1 R?-2
+NET 'NetCT?_3' CT?-3 R?-1 R?-2
+NET 'NetCT?_4' CT?-4 CT?-4 CT?-4 R?-1 R?-2 R?-2 R?-2
+NET 'NetD17_1' D17-1 R66-1
+NET 'NetD18_1' D18-1 R68-1
+NET 'NetD?_1' D?-1 R?-1 SCR?-1 TP?-0
+NET 'NetF?_1' F?-1 TP?-0
+NET 'NetF?_1' F?-1 TP?-0
+NET 'NetIC7_1' IC7-1 R?-1
+NET 'NetIC7_2' IC7-2 R?-1 R?-2
+NET 'NetIC7_3' IC7-3 R?-1 R?-2
+NET 'NetL?_1' L?-1 R?-2
+NET 'NetL?_1' L?-1 R?-2
+NET 'NetL?_1' L?-1 R?-2
+NET 'NetL?_2' L?-2 L?-2 L?-2
+NET 'NetR?_1' R?-1 R?-1 R?-1 R?-2
+NET 'PE' D?-2 D?-2
+NET 'PWMA' IC5-26
+NET 'PWMB' IC5-25
+NET 'RST' C31-2 R30-2 R33-1 SW2-1
+NET 'SW' C68-1 SW1-1
+NET 'VCC' C69-2 C?-1 C?-1 C?-1 C?-1 C?-1 L?-3
+NET 'Vsense' IC5-4
